@@ -1,0 +1,18 @@
+body {
+   font-family: Arial, sans-serif;
+   text-align: center;
+}
+.buttons {
+   margin-bottom: 20px;
+}
+button {
+   margin: 5px;
+   padding: 8px 16px;
+   font-size: 16px;
+   cursor: pointer;
+}
+#taskList {
+   text-align: left;
+   margin: 20px auto;
+   max-width: 600px;
+}
